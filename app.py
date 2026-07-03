@@ -1,7 +1,7 @@
 # app.py
 # Streamlit Brainy Data Explorer
 
-import streamlit as st
+impsdfsdfsdfsfsdfsfdsdfsdfssfsdsdort streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
